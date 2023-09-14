@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Soy un Desarrollador Web Junior, os presento algunos de los proyectos más relevantes.<br><br>- Soy una persona que entre sus cualidades destacan su proactividad, comunicación y resolutiva, entre otras cualidades.<br><br>- Bienvenidos a mi zona de trabajo
+
+- Soy un Desarrollador Web Junior, os presento algunos de los proyectos más relevantes.<br><br>
+- Soy una persona que entre sus cualidades destacan su proactividad, comunicación y resolutiva, entre otras cualidades.<br><br>
+- Bienvenidos a mi zona de trabajo
 
 
 ## 🌐 Socials:
