@@ -1,6 +1,10 @@
 # 💫 About Me:
-- Soy un Desarrollador Web Junior, os presento algunos de los proyectos más relevantes.<br><br>- Soy una persona que entre sus cualidades destacan su proactividad, comunicación y resolutiva, entre otras cualidades.<br><br>- Bienvenidos a mi zona de trabajo
+- Soy un Desarrollador Web Junior residente en 📍 Barcelona, os presento algunos de los proyectos más relevantes.<br><br>
+- Soy una persona que entre sus cualidades destacan su proactividad, comunicación y resolutiva, entre otras cualidades.<br><br>
+- Bienvenidos a mi zona de trabajo
 
+# Contact Info:
+📧 ejhmounir@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mounir-el-jaadouni-harraqi/) 
